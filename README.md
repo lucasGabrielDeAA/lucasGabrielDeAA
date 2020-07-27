@@ -25,7 +25,6 @@ Tenho um carinho especial pelo desenvolvimento **mobile**, e estou sempre em bus
 <code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/react-native.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/sql.png"></code>
