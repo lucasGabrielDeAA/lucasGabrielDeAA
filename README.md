@@ -1,6 +1,6 @@
 ### Salve! sou o Lucas Gabriel! 👋
 
-[![Instagram](/instagram.svg)](https://www.instagram.com/lucasgabriel.aa/)
+[![Instagram](https://github.com/lucasGabrielDeAA/lucasGabrielDeAA/instagram.svg)](https://www.instagram.com/lucasgabriel.aa/)
 
 Olá, sou o Lucas Gabriel, desenvolvedor de software com 7 anos de experiência. Já atuei no processo de desenvolvimento de sistemas ERP's, scripts de automação, aplicações web, aplicativos mobile e módulos nativos os estes.
 Já trabalhei como desenvolvedor **full-stack** e atualmente atuo como desenvolvedor **front-end/mobile** na [PRTE](https://prte.com.br/).
