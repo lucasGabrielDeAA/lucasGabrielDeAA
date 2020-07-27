@@ -1,4 +1,8 @@
-### Hi there 👋
+### Salve! sou o Lucas Gabriel! 👋
+
+Olá, sou o Lucas Gabriel, desenvolvedor de software com 7 anos de experiência. Já atuei no processo de desenvolvimento de sistemas ERP's, scripts de automação, aplicações web, aplicativos mobile e módulos nativos os estes. Já trabalhei como desenvolvedor full-stack e atualmente atuo como desenvolvedor front-end/mobile na [PRTE](https://prte.com.br/).
+
+Tenho um carinho especial por desenvolvimento mobile, e estou sempre em busca de novas tecnologias e conhecimentos em tecnologias para tal plataforma.
 
 <!--
 **lucasGabrielDeAA/lucasGabrielDeAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
