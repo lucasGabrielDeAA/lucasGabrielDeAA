@@ -15,7 +15,7 @@
 <br />
 <br />
 
-Olá, me chamo Lucas Gabriel, sou desenvolvedor de software com 7 anos de experiência. Já atuei desenvolvimento de sistemas ERP's, scripts de automação, aplicações web, aplicativos mobile e módulos nativos para estes.<br />Já trabalhei como desenvolvedor **full-stack** e atualmente desempenho o cargo de  desenvolvedor **front-end/mobile** na [PRTE](https://prte.com.br/).
+Olá, me chamo Lucas Gabriel, sou desenvolvedor de software com 7 anos de experiência. Já atuei desenvolvimento de sistemas ERP's, scripts de automação, aplicações web, aplicativos mobile e módulos nativos para estes.<br />Tenho experiência como desenvolvedor **full-stack**, e atualmente desempenho o cargo de  desenvolvedor **front-end/mobile** na [PRTE](https://prte.com.br/).
 
 Tenho um carinho especial pelo desenvolvimento **mobile**, sempre focado no **UX** e na qualidade de código e performance das aplicações, busco aprender novas tecnologias e absorver conhecimentos.
 
