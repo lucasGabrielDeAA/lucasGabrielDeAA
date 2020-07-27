@@ -1,25 +1,30 @@
 ### Salve! sou o Lucas Gabriel! 👋
 
-[![Instagram](https://github.com/lucasGabrielDeAA/lucasGabrielDeAA/instagram.svg)](https://www.instagram.com/lucasgabriel.aa/)
+<a href="https://www.linkedin.com/in/lg1992/" target="_blank">
+  <img src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/linkedin.svg" width="21px"  alt="Lucas Gabriel | LinkedIn" align="left" />
+</a>
+
+<a href="https://www.instagram.com/lucasgabriel.aa/" target="_blank">
+  <img src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/instagram.svg" width="21px"  alt="Lucas Gabriel | Instagram" align="left" />
+</a>
+
+<a href="https://telegram.me/lgTechnus" target="_blank">
+  <img src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/telegram.svg" width="21px"  alt="Lucas Gabriel | Telegram" align="left" />
+</a>
+
+<br />
+<br />
 
 Olá, sou o Lucas Gabriel, desenvolvedor de software com 7 anos de experiência. Já atuei no processo de desenvolvimento de sistemas ERP's, scripts de automação, aplicações web, aplicativos mobile e módulos nativos os estes.
 Já trabalhei como desenvolvedor **full-stack** e atualmente atuo como desenvolvedor **front-end/mobile** na [PRTE](https://prte.com.br/).
 
 Tenho um carinho especial por desenvolvimento **mobile**, e estou sempre em busca de novas tecnologias e conhecimentos em tecnologias para tal plataforma.
 
-## Minha Stack atual
+**Skills**
 
-<!--
-**lucasGabrielDeAA/lucasGabrielDeAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/sql.png"></code>
