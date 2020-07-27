@@ -21,10 +21,10 @@ Tenho um carinho especial pelo desenvolvimento **mobile**, e estou sempre em bus
 
 **Skills**
 
-<img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/javascript.png">
-<img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/typescript.png">
-<img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/react.png">
-<img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/nodejs.png">
-<img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/android.png">
-<img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/python.png">
-<img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/sql.png">
+<code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/android.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/sql.png"></code>
