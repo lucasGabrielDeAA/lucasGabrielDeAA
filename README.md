@@ -24,10 +24,6 @@ Tenho um carinho especial pelo desenvolvimento **mobile**, sempre focado no **UX
 - Tecnólogo em Sistemas para Internet pelo [IFET - Sudeste de Minas Gerais](https://www.ifsudestemg.edu.br/barbacena)
 - Pós-graduado em desenvolvimento mobile pelo [IGTI - Belo Horizonte](https://www.igti.com.br/)
 
-**Redes Sociais**
-
-
-
 **Tecnologias**
 
 <code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/javascript.png"></code>
