@@ -15,9 +15,7 @@
 <br />
 <br />
 
-Olá! Me chamo Lucas Gabriel, sou natural de Barbacena - MG, como todo bom mineiro, apaixonado por pão de queijo & café. Sou desenvolvedor de software com 6 anos de experiência. Já atuei no desenvolvimento de sistemas ERP's, scripts de automação, aplicações web, aplicativos mobile e módulos nativos para estes.<br />Tenho experiência como desenvolvedor **full-stack**, e atualmente desempenho o cargo de desenvolvedor **mobile** na [Nave.rs](https://nave.rs/) e músico nas horas vagas.
-
-Tenho um carinho especial pelo desenvolvimento **mobile**, sempre focado em **UX** e na qualidade de código. Estou sempre na busca, para aprender novas tecnologias e absorver conhecimentos que farão com que eu me torne um profissional melhor a cada dia.
+Olá! Me chamo Lucas Gabriel, sou natural de Barbacena, MG, e como todo bom mineiro, apaixonado por pão de queijo & café. Sou desenvolvedor de software com 6 anos de experiência. Já atuei no desenvolvimento de sistemas ERP's, scripts de automação, aplicações web, aplicativos mobile e módulos nativos para estes.<br />Tenho experiência com desenvolvimento **full-stack**, **front-end**, e hoje sou desenvolvedor **mobile** na [Nave.rs](https://nave.rs/), stack esta que busco me especializar, sempre focando em **UX/UI** e na qualidade de código. A fim de sempre melhorar minhas habilidades técnicas como desenvolvedor, e músico nas horas vagas.
 
 **Formação**
 
@@ -29,6 +27,7 @@ Tenho um carinho especial pelo desenvolvimento **mobile**, sempre focado em **UX
 <code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/react-native.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/android.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/python.png"></code>
