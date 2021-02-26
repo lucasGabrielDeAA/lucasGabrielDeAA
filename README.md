@@ -15,7 +15,7 @@
 <br />
 <br />
 
-Olá! Me chamo Lucas Gabriel, sou natural de Barbacena, MG, e como todo bom mineiro, apaixonado por pão de queijo & café. Sou desenvolvedor de software com 6 anos de experiência. Já atuei no desenvolvimento de sistemas ERP's, scripts de automação, aplicações web, aplicativos mobile e módulos nativos para estes.<br />Tenho experiência com desenvolvimento **full-stack**, **front-end**, e hoje sou desenvolvedor **mobile** na [Nave.rs](https://nave.rs/), stack que busco me especializar, sempre focando em **UX/UI** e na qualidade de código. A fim de sempre melhorar minhas habilidades técnicas como desenvolvedor.<br /> Sou músico e leitor nas horas vagas.
+Olá! Me chamo Lucas Gabriel, sou natural de Barbacena, MG, e como todo bom mineiro, apaixonado por pão de queijo & café. Sou desenvolvedor de software com 6 anos de experiência. Já atuei no desenvolvimento de sistemas ERP's, scripts de automação, aplicações web, aplicativos mobile e módulos nativos para estes.<br />Tenho experiência com desenvolvimento **full-stack**, **front-end**, e hoje sou desenvolvedor **mobile** na [Nave.rs](https://nave.rs/), stack esta que busco me especializar, a fim de sempre melhorar minhas habilidades técnicas como desenvolvedor, sempre focando em **UX/UI** e qualidade de código.<br /> Sou músico e leitor nas horas vagas.
 
 **Formação**
 
