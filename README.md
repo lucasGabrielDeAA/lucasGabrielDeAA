@@ -8,9 +8,9 @@
   <img src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/instagram.svg" width="21px"  alt="Lucas Gabriel | Instagram" align="left" />
 </a>
 
-<a href="https://telegram.me/lgTechnus" target="_blank">
+<!-- <a href="https://telegram.me/lgTechnus" target="_blank">
   <img src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/telegram.svg" width="21px"  alt="Lucas Gabriel | Telegram" align="left" />
-</a>
+</a> -->
 
 <br />
 <br />
