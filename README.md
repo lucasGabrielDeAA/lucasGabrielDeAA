@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Olá, me chamo Lucas Gabriel, desenvolvedor de software com 6 anos de experiência, sempre focado em **UX/UI**, qualidade e boas práticas. Já trabalhei em empresas do setor de telecomunicações, startups, e empresas de produtos digitais, onde exerci o papel de analista de sistemas, desenvolvedor **full-stack** e desenvolvedor **front-end**, atuando no desenvolvimento de sistemas ERP's, aplicações web, scripts para automação e projetos de aplicativos mobile. Hoje me especializei e busco sempre melhorar minhas habilidades no desenvolvimento **mobile**. E integro o time de tecnologia da [Nave.rs](https://nave.rs/).<br /> Sou músico e leitor nas horas vagas, e como todo bom mineiro, apaixonado por pão de queijo & café.
+Olá, me chamo Lucas Gabriel, desenvolvedor de software com 6 anos de experiência, sempre focado em **UX/UI**, qualidade e boas práticas. Já trabalhei em empresas do setor de telecomunicações, startups, e empresas de produtos digitais, onde exerci o papel de analista de sistemas, desenvolvedor **full-stack** e desenvolvedor **front-end**, atuando no desenvolvimento de sistemas desktop, aplicações web, scripts de automação e de processamento de dados e projetos de aplicativos mobile. Hoje me especializei e busco sempre melhorar minhas habilidades no desenvolvimento **mobile**. E integro o time de tecnologia da [Nave.rs](https://nave.rs/).<br /> Sou músico e leitor nas horas vagas, e como todo bom mineiro, apaixonado por pão de queijo & café.
 
 **Formação**
 
