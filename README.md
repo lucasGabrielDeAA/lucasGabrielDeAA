@@ -19,8 +19,8 @@ I like to learn new things and improve my skills, always looking for new ways to
 
 **Degree**
 
-- Tecnólogo em Sistemas para Internet [IF - Sudeste de Minas Gerais](https://www.ifsudestemg.edu.br/barbacena)
-- Pós-graduado em desenvolvimento mobile [IGTI - Belo Horizonte](https://www.igti.com.br/)
+- Internet Systems, Web & Mobile development [IF - Sudeste de Minas Gerais](https://www.ifsudestemg.edu.br/barbacena)
+- Master of Business Administration - MBA, Mobile app development [IGTI - Belo Horizonte](https://www.igti.com.br/)
 
 **Technologies & Tools**
 
