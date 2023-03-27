@@ -1,4 +1,6 @@
-### Salve! 👋🏼
+### Hi! 👋🏼
+
+My name is Lucas Gabriel and I'm a mobile developer and music enthusiast. Here are some links where you can fine me
 
 <a href="https://www.linkedin.com/in/lg1992/" target="_blank">
   <img src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/linkedin.svg" width="21px"  alt="Lucas Gabriel | LinkedIn" align="left" />
@@ -11,20 +13,27 @@
 <br />
 <br />
 
-Olá, me chamo Lucas Gabriel, desenvolvedor de software com 6 anos de experiência, sempre focado em **UX/UI**, qualidade e boas práticas. Já trabalhei em empresas do setor de telecomunicações, startups, e empresas de produtos digitais, onde exerci o papel de analista de sistemas, desenvolvedor **full-stack** e desenvolvedor **front-end**, atuando no desenvolvimento de sistemas desktop, aplicações web, scripts de automação e de processamento de dados e projetos de aplicativos mobile. Hoje me especializei e busco sempre melhorar minhas habilidades no desenvolvimento **mobile**. E integro o time de tecnologia da [Nave.rs](https://nave.rs/).<br /> Sou músico e leitor nas horas vagas, e como todo bom mineiro, apaixonado por pão de queijo & café.
+I like to learn new things and improve my skills, always looking for new ways to use my knowledge.
 
-**Formação**
+**Code-review**, **clean code** and develop awesome **UI** with the best logic I can are some of my passions ❤️
+
+**Degree**
 
 - Tecnólogo em Sistemas para Internet [IF - Sudeste de Minas Gerais](https://www.ifsudestemg.edu.br/barbacena)
 - Pós-graduado em desenvolvimento mobile [IGTI - Belo Horizonte](https://www.igti.com.br/)
 
-**Tecnologias**
+**Technologies & Tools**
 
-<code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/javascript.png" alt="Javascript"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/typescript.png" alt="Typescript"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/react.png" alt="ReactJS"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/react-native.png" alt="react-native"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/nodejs.png" alt="NodeJS"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/android.png" alt="Android"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/python.png" alt="Python"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/sql.png" alt="SQL"></code>
+![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/IDE-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=react&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blueviolet)
