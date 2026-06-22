@@ -1,13 +1,9 @@
 ### Hi! 👋🏼
 
-My name is Lucas Gabriel and I'm a mobile developer and music enthusiast. Here are some links where you can find me
+My name is Lucas Gabriel and I work as a software developer and I am music enthusiast.
 
 <a href="https://www.linkedin.com/in/lg1992/" target="_blank">
   <img src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/linkedin.svg" width="21px"  alt="Lucas Gabriel | LinkedIn" align="left" />
-</a>
-
-<a href="https://www.instagram.com/lucasgabriel.aa/" target="_blank">
-  <img src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/instagram.svg" width="21px"  alt="Lucas Gabriel | Instagram" align="left" />
 </a>
 
 <br />
@@ -24,16 +20,15 @@ I like to learn new things and improve my skills, always looking for new ways to
 
 **Technologies & Tools**
 
-![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/IDE-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=react&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/Code-ReactJS-informational?style=flat&logo=react&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=android&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Code-NodeJS-informational?style=flat&logo=node.js&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=blueviolet)
