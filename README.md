@@ -4,9 +4,6 @@ My name is Lucas Gabriel, I am a software developer and music enthusiast. I like
 
 **Code-review**, **clean code** and develop awesome **Mobile applications** using the best **logic** and **UI** I can are some of my passions ❤️.
 
-<br />
-<br />
-
 <a href="https://www.linkedin.com/in/lg1992/" target="_blank">
   <img src="https://raw.githubusercontent.com/lucasGabrielDeAA/lucasGabrielDeAA/master/assets/linkedin.svg" width="21px"  alt="Lucas Gabriel | LinkedIn" align="left" />
 </a>
