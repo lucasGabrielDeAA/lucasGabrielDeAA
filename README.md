@@ -44,13 +44,3 @@ Feel free to explore my public repositories!
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=blueviolet)
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=lucasGabrielDeAA&show_icons=true&theme=tokyonight&&rank_icon=github&include_all_commits=true&custom_title=Lucas Gabriel%27s Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed" alt="Lucas's GitHub Stats" height="165" />
-  
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lucasGabrielDeAA&layout=compact&theme=tokyonight" alt="Top Languages" height="165" />
-</p>
